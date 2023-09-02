@@ -29,7 +29,7 @@ const page = () => {
 	return (
 		<>
 			<h1 className="text-4xl font-bold bg-black text-white text-center p-5">
-				Vijay Todo List
+				My Todo List
 			</h1>
 			<form
 				className=""
