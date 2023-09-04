@@ -16,7 +16,7 @@ const page = () => {
 		setTitle("");
 		SetDesc("");
 	};
-	let renderTask = "No Task Available";
+	let renderTask = "No Task Available for today";
 	renderTask = task.map((tasks,i) => {
 		return (
 			<div className="flex justify-between w-1/2">
